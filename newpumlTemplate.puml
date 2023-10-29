@@ -1,0 +1,119 @@
+@startuml
+
+class Akun {
+    - username: String
+    - password: String
+    - nama: String
+    - phoneNum: String
+    - email: String
+    - role: String
+    + scanner: Scanner
+    + value: String
+    --
+    + Akun(username: String, password: String, phoneNum: String, nama: String, email: String, role: String)
+    + daftarAkun(): void
+    + getUsername(): String
+    + setPassword(password: String): void
+    + getNama(): String
+    + setNama(nama: String): void
+    + getPhoneNum(): String
+    + setPhoneNum(phoneNum: String): void
+    + getEmail(): String
+    + setEmail(email: String): void
+    + getRole(): String
+    + setRole(role: String): void
+    + getValue(): String
+    + setValue(value: String): void
+    + login(inputUsername: String, inputPassword: String): boolean
+}
+
+class mentor {
+    - chatWithUser: Chat
+    - startChatWithUser: ArrayList<Mentoring>
+    --
+    + mentor(username: String, password: String, phoneNum: String, nama: String, email: String, role: String)
+}
+
+class User {
+    - chatWithMentor: Chat
+    - startChatWithMentor: ArrayList<Mentoring>
+    - reports: ArrayList<Report>
+    --
+    + User(username: String, password: String, phoneNum: String, nama: String, email: String, role: String)
+    + createReport(isiLaporan: String): void
+    + getReports(): List<Report>
+}
+
+class Report {
+    - username: User
+    - isiLaporan: String
+    - tanggalLaporan: Date
+    - statusLaporan: String
+    --
+    + Report(isiLaporan: String)
+    + setNama(username: User): void
+    + setIsiLaporan(isiLaporan: String): void
+    + setTanggalLaporan(tanggalLaporan: Date): void
+    + setStatusLaporan(statusLaporan: String): void
+    + getNama(): User
+    + getIsiLaporan(): String
+    + getTanggalLaporan(): Date
+    + getStatusLaporan(): String
+    + printLaporan(): void
+}
+
+class Artikel {
+    - judul: String
+    - isi: String
+    - penulis: String
+    - tanggal: Date
+    - komentar: ArrayList<String>
+    --
+    + Artikel(judul: String, isi: String, penulis: String)
+    + tambahKomentar(komentar: String): void
+    + hapusKomentar(indeks: int): void
+    + balasKomentar(indeks: int, balasan: String): void
+    + tampilanPilihanArtikel(daftarArtikel: ArrayList<Artikel>): void
+    + tampilanArtikel(): void
+    + getJudul(): String
+    + setJudul(judul: String): void
+    + getIsi(): String
+    + setIsi(isi: String): void
+    + getPenulis(): String
+    + setPenulis(penulis: String): void
+    + getTanggal(): Date
+    + setTanggal(tanggal: Date): void
+    + getKomentar(): ArrayList<String>
+    + setKomentar(komentar: ArrayList<String>): void
+}
+
+class Chat {
+    - user: User
+    - mentor: mentor
+    - messages: List<String>
+    --
+    + Chat(user: User, mentor: mentor)
+    + sendMessageFromUser(message: String): void
+    + sendMessageFromMentor(message: String): void
+    + getMessages(): List<String>
+    + displayPesan(): void
+}
+
+class Mentoring {
+    - akun: Akun
+    - message: String
+    --
+    + Mentoring(akun: Akun, message: String)
+    + getAkun(): Akun
+    + getMessage(): String
+}
+
+Akun --> mentor : inheritance
+Akun --> User : inheritance
+mentor --> Chat : has
+User --> Chat : has
+User --> Report : has
+mentor --> Artikel : has
+User --> Artikel : has
+
+@enduml

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1194px" preserveAspectRatio="none" style="width:1380px;height:1194px;background:#FFFFFF;" version="1.1" viewBox="0 0 1380 1194" width="1380px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--class Akun-->
+        <g id="elem_Akun">
+            <rect codeLine="2" fill="#F1F1F1" height="453.0156" id="Akun" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="661" x="363" y="7"/>
+            <ellipse cx="673.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M676.0156,18.875 Q676.1719,18.6563 676.3594,18.5469 Q676.5469,18.4375 676.7656,18.4375 Q677.1406,18.4375 677.375,18.7031 Q677.6094,18.9531 677.6094,19.5625 L677.6094,21.0156 Q677.6094,21.625 677.375,21.8906 Q677.1406,22.1563 676.7656,22.1563 Q676.4219,22.1563 676.2188,21.9531 Q676.0156,21.7656 675.9063,21.25 Q675.8594,20.8906 675.6719,20.7031 Q675.3438,20.3281 674.7344,20.1094 Q674.125,19.8906 673.5,19.8906 Q672.7344,19.8906 672.0938,20.2188 Q671.4688,20.5469 670.9688,21.2969 Q670.4844,22.0469 670.4844,23.0781 L670.4844,24.1719 Q670.4844,25.4063 671.375,26.2344 Q672.2656,27.0469 673.8594,27.0469 Q674.7969,27.0469 675.4531,26.7969 Q675.8438,26.6406 676.2656,26.2031 Q676.5313,25.9375 676.6719,25.8594 Q676.8281,25.7813 677.0313,25.7813 Q677.3594,25.7813 677.6094,26.0469 Q677.875,26.2969 677.875,26.6406 Q677.875,26.9844 677.5313,27.3906 Q677.0313,27.9688 676.2344,28.2969 Q675.1563,28.75 673.8594,28.75 Q672.3438,28.75 671.1406,28.125 Q670.1563,27.625 669.4688,26.5625 Q668.7813,25.4844 668.7813,24.2031 L668.7813,23.0469 Q668.7813,21.7188 669.3906,20.5781 Q670.0156,19.4219 671.1094,18.8125 Q672.2031,18.1875 673.4375,18.1875 Q674.1719,18.1875 674.8125,18.3594 Q675.4688,18.5156 676.0156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="693.75" y="28.7285">Akun</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="364" x2="1023" y1="39" y2="39"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="371" y="50.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="383" y="57.5332">username: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="371" y="67.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="383" y="75.1426">password: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="371" y="85.5234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="383" y="92.752">nama: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="371" y="103.1328"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="383" y="110.3613">phoneNum: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="371" y="120.7422"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="383" y="127.9707">email: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="371" y="138.3516"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="383" y="145.5801">role: String</text>
+            <ellipse cx="374" cy="158.9609" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="383" y="163.1895">scanner: Scanner</text>
+            <ellipse cx="374" cy="176.5703" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="383" y="180.7988">value: String</text>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="364" x2="1023" y1="187.875" y2="187.875"/>
+            <ellipse cx="374" cy="202.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="635" x="383" y="206.4082">Akun(username: String, password: String, phoneNum: String, nama: String, email: String, role: String)</text>
+            <ellipse cx="374" cy="219.7891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="383" y="224.0176">daftarAkun(): void</text>
+            <ellipse cx="374" cy="237.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="383" y="241.627">getUsername(): String</text>
+            <ellipse cx="374" cy="255.0078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="229" x="383" y="259.2363">setPassword(password: String): void</text>
+            <ellipse cx="374" cy="272.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="383" y="276.8457">getNama(): String</text>
+            <ellipse cx="374" cy="290.2266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="383" y="294.4551">setNama(nama: String): void</text>
+            <ellipse cx="374" cy="307.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="144" x="383" y="312.0645">getPhoneNum(): String</text>
+            <ellipse cx="374" cy="325.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="245" x="383" y="329.6738">setPhoneNum(phoneNum: String): void</text>
+            <ellipse cx="374" cy="343.0547" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="383" y="347.2832">getEmail(): String</text>
+            <ellipse cx="374" cy="360.6641" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="175" x="383" y="364.8926">setEmail(email: String): void</text>
+            <ellipse cx="374" cy="378.2734" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="383" y="382.502">getRole(): String</text>
+            <ellipse cx="374" cy="395.8828" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161" x="383" y="400.1113">setRole(role: String): void</text>
+            <ellipse cx="374" cy="413.4922" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="383" y="417.7207">getValue(): String</text>
+            <ellipse cx="374" cy="431.1016" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="383" y="435.3301">setValue(value: String): void</text>
+            <ellipse cx="374" cy="448.7109" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="384" x="383" y="452.9395">login(inputUsername: String, inputPassword: String): boolean</text>
+        </g>
+        <!--class mentor-->
+        <g id="elem_mentor">
+            <rect codeLine="29" fill="#F1F1F1" height="100.8281" id="mentor" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="673" x="7" y="564.5"/>
+            <ellipse cx="317.25" cy="580.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M320.0156,576.375 Q320.1719,576.1563 320.3594,576.0469 Q320.5469,575.9375 320.7656,575.9375 Q321.1406,575.9375 321.375,576.2031 Q321.6094,576.4531 321.6094,577.0625 L321.6094,578.5156 Q321.6094,579.125 321.375,579.3906 Q321.1406,579.6563 320.7656,579.6563 Q320.4219,579.6563 320.2188,579.4531 Q320.0156,579.2656 319.9063,578.75 Q319.8594,578.3906 319.6719,578.2031 Q319.3438,577.8281 318.7344,577.6094 Q318.125,577.3906 317.5,577.3906 Q316.7344,577.3906 316.0938,577.7188 Q315.4688,578.0469 314.9688,578.7969 Q314.4844,579.5469 314.4844,580.5781 L314.4844,581.6719 Q314.4844,582.9063 315.375,583.7344 Q316.2656,584.5469 317.8594,584.5469 Q318.7969,584.5469 319.4531,584.2969 Q319.8438,584.1406 320.2656,583.7031 Q320.5313,583.4375 320.6719,583.3594 Q320.8281,583.2813 321.0313,583.2813 Q321.3594,583.2813 321.6094,583.5469 Q321.875,583.7969 321.875,584.1406 Q321.875,584.4844 321.5313,584.8906 Q321.0313,585.4688 320.2344,585.7969 Q319.1563,586.25 317.8594,586.25 Q316.3438,586.25 315.1406,585.625 Q314.1563,585.125 313.4688,584.0625 Q312.7813,582.9844 312.7813,581.7031 L312.7813,580.5469 Q312.7813,579.2188 313.3906,578.0781 Q314.0156,576.9219 315.1094,576.3125 Q316.2031,575.6875 317.4375,575.6875 Q318.1719,575.6875 318.8125,575.8594 Q319.4688,576.0156 320.0156,576.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="337.75" y="586.2285">mentor</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="679" y1="596.5" y2="596.5"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="607.8047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="27" y="615.0332">chatWithUser: Chat</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="625.4141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="258" x="27" y="632.6426">startChatWithUser: ArrayList&lt;Mentoring&gt;</text>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="8" x2="679" y1="639.7188" y2="639.7188"/>
+            <ellipse cx="18" cy="654.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="647" x="27" y="658.252">mentor(username: String, password: String, phoneNum: String, nama: String, email: String, role: String)</text>
+        </g>
+        <!--class User-->
+        <g id="elem_User">
+            <rect codeLine="36" fill="#F1F1F1" height="153.6563" id="User" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="658" x="715.5" y="538"/>
+            <ellipse cx="1025.75" cy="554" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1028.5156,549.875 Q1028.6719,549.6563 1028.8594,549.5469 Q1029.0469,549.4375 1029.2656,549.4375 Q1029.6406,549.4375 1029.875,549.7031 Q1030.1094,549.9531 1030.1094,550.5625 L1030.1094,552.0156 Q1030.1094,552.625 1029.875,552.8906 Q1029.6406,553.1563 1029.2656,553.1563 Q1028.9219,553.1563 1028.7188,552.9531 Q1028.5156,552.7656 1028.4063,552.25 Q1028.3594,551.8906 1028.1719,551.7031 Q1027.8438,551.3281 1027.2344,551.1094 Q1026.625,550.8906 1026,550.8906 Q1025.2344,550.8906 1024.5938,551.2188 Q1023.9688,551.5469 1023.4688,552.2969 Q1022.9844,553.0469 1022.9844,554.0781 L1022.9844,555.1719 Q1022.9844,556.4063 1023.875,557.2344 Q1024.7656,558.0469 1026.3594,558.0469 Q1027.2969,558.0469 1027.9531,557.7969 Q1028.3438,557.6406 1028.7656,557.2031 Q1029.0313,556.9375 1029.1719,556.8594 Q1029.3281,556.7813 1029.5313,556.7813 Q1029.8594,556.7813 1030.1094,557.0469 Q1030.375,557.2969 1030.375,557.6406 Q1030.375,557.9844 1030.0313,558.3906 Q1029.5313,558.9688 1028.7344,559.2969 Q1027.6563,559.75 1026.3594,559.75 Q1024.8438,559.75 1023.6406,559.125 Q1022.6563,558.625 1021.9688,557.5625 Q1021.2813,556.4844 1021.2813,555.2031 L1021.2813,554.0469 Q1021.2813,552.7188 1021.8906,551.5781 Q1022.5156,550.4219 1023.6094,549.8125 Q1024.7031,549.1875 1025.9375,549.1875 Q1026.6719,549.1875 1027.3125,549.3594 Q1027.9688,549.5156 1028.5156,549.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="1046.25" y="559.7285">User</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="716.5" x2="1372.5" y1="570" y2="570"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="723.5" y="581.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="735.5" y="588.5332">chatWithMentor: Chat</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="723.5" y="598.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="273" x="735.5" y="606.1426">startChatWithMentor: ArrayList&lt;Mentoring&gt;</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="723.5" y="616.5234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="735.5" y="623.752">reports: ArrayList&lt;Report&gt;</text>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="716.5" x2="1372.5" y1="630.8281" y2="630.8281"/>
+            <ellipse cx="726.5" cy="645.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="632" x="735.5" y="649.3613">User(username: String, password: String, phoneNum: String, nama: String, email: String, role: String)</text>
+            <ellipse cx="726.5" cy="662.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="238" x="735.5" y="666.9707">createReport(isiLaporan: String): void</text>
+            <ellipse cx="726.5" cy="680.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="169" x="735.5" y="684.5801">getReports(): List&lt;Report&gt;</text>
+        </g>
+        <!--class Report-->
+        <g id="elem_Report">
+            <rect codeLine="46" fill="#F1F1F1" height="294.5313" id="Report" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="332" x="981.5" y="831.5"/>
+            <ellipse cx="1121.75" cy="847.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1124.5156,843.375 Q1124.6719,843.1563 1124.8594,843.0469 Q1125.0469,842.9375 1125.2656,842.9375 Q1125.6406,842.9375 1125.875,843.2031 Q1126.1094,843.4531 1126.1094,844.0625 L1126.1094,845.5156 Q1126.1094,846.125 1125.875,846.3906 Q1125.6406,846.6563 1125.2656,846.6563 Q1124.9219,846.6563 1124.7188,846.4531 Q1124.5156,846.2656 1124.4063,845.75 Q1124.3594,845.3906 1124.1719,845.2031 Q1123.8438,844.8281 1123.2344,844.6094 Q1122.625,844.3906 1122,844.3906 Q1121.2344,844.3906 1120.5938,844.7188 Q1119.9688,845.0469 1119.4688,845.7969 Q1118.9844,846.5469 1118.9844,847.5781 L1118.9844,848.6719 Q1118.9844,849.9063 1119.875,850.7344 Q1120.7656,851.5469 1122.3594,851.5469 Q1123.2969,851.5469 1123.9531,851.2969 Q1124.3438,851.1406 1124.7656,850.7031 Q1125.0313,850.4375 1125.1719,850.3594 Q1125.3281,850.2813 1125.5313,850.2813 Q1125.8594,850.2813 1126.1094,850.5469 Q1126.375,850.7969 1126.375,851.1406 Q1126.375,851.4844 1126.0313,851.8906 Q1125.5313,852.4688 1124.7344,852.7969 Q1123.6563,853.25 1122.3594,853.25 Q1120.8438,853.25 1119.6406,852.625 Q1118.6563,852.125 1117.9688,851.0625 Q1117.2813,849.9844 1117.2813,848.7031 L1117.2813,847.5469 Q1117.2813,846.2188 1117.8906,845.0781 Q1118.5156,843.9219 1119.6094,843.3125 Q1120.7031,842.6875 1121.9375,842.6875 Q1122.6719,842.6875 1123.3125,842.8594 Q1123.9688,843.0156 1124.5156,843.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="1142.25" y="853.2285">Report</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="982.5" x2="1312.5" y1="863.5" y2="863.5"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="989.5" y="874.8047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="1001.5" y="882.0332">username: User</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="989.5" y="892.4141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="1001.5" y="899.6426">isiLaporan: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="989.5" y="910.0234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="1001.5" y="917.252">tanggalLaporan: Date</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="989.5" y="927.6328"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="1001.5" y="934.8613">statusLaporan: String</text>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="982.5" x2="1312.5" y1="941.9375" y2="941.9375"/>
+            <ellipse cx="992.5" cy="956.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="1001.5" y="960.4707">Report(isiLaporan: String)</text>
+            <ellipse cx="992.5" cy="973.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="199" x="1001.5" y="978.0801">setNama(username: User): void</text>
+            <ellipse cx="992.5" cy="991.4609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="240" x="1001.5" y="995.6895">setIsiLaporan(isiLaporan: String): void</text>
+            <ellipse cx="992.5" cy="1009.0703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="306" x="1001.5" y="1013.2988">setTanggalLaporan(tanggalLaporan: Date): void</text>
+            <ellipse cx="992.5" cy="1026.6797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="292" x="1001.5" y="1030.9082">setStatusLaporan(statusLaporan: String): void</text>
+            <ellipse cx="992.5" cy="1044.2891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="1001.5" y="1048.5176">getNama(): User</text>
+            <ellipse cx="992.5" cy="1061.8984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="1001.5" y="1066.127">getIsiLaporan(): String</text>
+            <ellipse cx="992.5" cy="1079.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="1001.5" y="1083.7363">getTanggalLaporan(): Date</text>
+            <ellipse cx="992.5" cy="1097.1172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="1001.5" y="1101.3457">getStatusLaporan(): String</text>
+            <ellipse cx="992.5" cy="1114.7266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="1001.5" y="1118.9551">printLaporan(): void</text>
+        </g>
+        <!--class Artikel-->
+        <g id="elem_Artikel">
+            <rect codeLine="64" fill="#F1F1F1" height="417.7969" id="Artikel" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="399" x="547" y="770"/>
+            <ellipse cx="722.75" cy="786" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M725.5156,781.875 Q725.6719,781.6563 725.8594,781.5469 Q726.0469,781.4375 726.2656,781.4375 Q726.6406,781.4375 726.875,781.7031 Q727.1094,781.9531 727.1094,782.5625 L727.1094,784.0156 Q727.1094,784.625 726.875,784.8906 Q726.6406,785.1563 726.2656,785.1563 Q725.9219,785.1563 725.7188,784.9531 Q725.5156,784.7656 725.4063,784.25 Q725.3594,783.8906 725.1719,783.7031 Q724.8438,783.3281 724.2344,783.1094 Q723.625,782.8906 723,782.8906 Q722.2344,782.8906 721.5938,783.2188 Q720.9688,783.5469 720.4688,784.2969 Q719.9844,785.0469 719.9844,786.0781 L719.9844,787.1719 Q719.9844,788.4063 720.875,789.2344 Q721.7656,790.0469 723.3594,790.0469 Q724.2969,790.0469 724.9531,789.7969 Q725.3438,789.6406 725.7656,789.2031 Q726.0313,788.9375 726.1719,788.8594 Q726.3281,788.7813 726.5313,788.7813 Q726.8594,788.7813 727.1094,789.0469 Q727.375,789.2969 727.375,789.6406 Q727.375,789.9844 727.0313,790.3906 Q726.5313,790.9688 725.7344,791.2969 Q724.6563,791.75 723.3594,791.75 Q721.8438,791.75 720.6406,791.125 Q719.6563,790.625 718.9688,789.5625 Q718.2813,788.4844 718.2813,787.2031 L718.2813,786.0469 Q718.2813,784.7188 718.8906,783.5781 Q719.5156,782.4219 720.6094,781.8125 Q721.7031,781.1875 722.9375,781.1875 Q723.6719,781.1875 724.3125,781.3594 Q724.9688,781.5156 725.5156,781.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="39" x="743.25" y="791.7285">Artikel</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="548" x2="945" y1="802" y2="802"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="555" y="813.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="567" y="820.5332">judul: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="555" y="830.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="567" y="838.1426">isi: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="555" y="848.5234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="567" y="855.752">penulis: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="555" y="866.1328"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="567" y="873.3613">tanggal: Date</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="555" y="883.7422"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="176" x="567" y="890.9707">komentar: ArrayList&lt;String&gt;</text>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="548" x2="945" y1="898.0469" y2="898.0469"/>
+            <ellipse cx="558" cy="912.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="288" x="567" y="916.5801">Artikel(judul: String, isi: String, penulis: String)</text>
+            <ellipse cx="558" cy="929.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="256" x="567" y="934.1895">tambahKomentar(komentar: String): void</text>
+            <ellipse cx="558" cy="947.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="208" x="567" y="951.7988">hapusKomentar(indeks: int): void</text>
+            <ellipse cx="558" cy="965.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="306" x="567" y="969.4082">balasKomentar(indeks: int, balasan: String): void</text>
+            <ellipse cx="558" cy="982.7891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="373" x="567" y="987.0176">tampilanPilihanArtikel(daftarArtikel: ArrayList&lt;Artikel&gt;): void</text>
+            <ellipse cx="558" cy="1000.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="567" y="1004.627">tampilanArtikel(): void</text>
+            <ellipse cx="558" cy="1018.0078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="567" y="1022.2363">getJudul(): String</text>
+            <ellipse cx="558" cy="1035.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="567" y="1039.8457">setJudul(judul: String): void</text>
+            <ellipse cx="558" cy="1053.2266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="567" y="1057.4551">getIsi(): String</text>
+            <ellipse cx="558" cy="1070.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="134" x="567" y="1075.0645">setIsi(isi: String): void</text>
+            <ellipse cx="558" cy="1088.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="567" y="1092.6738">getPenulis(): String</text>
+            <ellipse cx="558" cy="1106.0547" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="199" x="567" y="1110.2832">setPenulis(penulis: String): void</text>
+            <ellipse cx="558" cy="1123.6641" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="567" y="1127.8926">getTanggal(): Date</text>
+            <ellipse cx="558" cy="1141.2734" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="200" x="567" y="1145.502">setTanggal(tanggal: Date): void</text>
+            <ellipse cx="558" cy="1158.8828" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="208" x="567" y="1163.1113">getKomentar(): ArrayList&lt;String&gt;</text>
+            <ellipse cx="558" cy="1176.4922" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="300" x="567" y="1180.7207">setKomentar(komentar: ArrayList&lt;String&gt;): void</text>
+        </g>
+        <!--class Chat-->
+        <g id="elem_Chat">
+            <rect codeLine="89" fill="#F1F1F1" height="188.875" id="Chat" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="337" x="175" y="884.5"/>
+            <ellipse cx="324.25" cy="900.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M327.0156,896.375 Q327.1719,896.1563 327.3594,896.0469 Q327.5469,895.9375 327.7656,895.9375 Q328.1406,895.9375 328.375,896.2031 Q328.6094,896.4531 328.6094,897.0625 L328.6094,898.5156 Q328.6094,899.125 328.375,899.3906 Q328.1406,899.6563 327.7656,899.6563 Q327.4219,899.6563 327.2188,899.4531 Q327.0156,899.2656 326.9063,898.75 Q326.8594,898.3906 326.6719,898.2031 Q326.3438,897.8281 325.7344,897.6094 Q325.125,897.3906 324.5,897.3906 Q323.7344,897.3906 323.0938,897.7188 Q322.4688,898.0469 321.9688,898.7969 Q321.4844,899.5469 321.4844,900.5781 L321.4844,901.6719 Q321.4844,902.9063 322.375,903.7344 Q323.2656,904.5469 324.8594,904.5469 Q325.7969,904.5469 326.4531,904.2969 Q326.8438,904.1406 327.2656,903.7031 Q327.5313,903.4375 327.6719,903.3594 Q327.8281,903.2813 328.0313,903.2813 Q328.3594,903.2813 328.6094,903.5469 Q328.875,903.7969 328.875,904.1406 Q328.875,904.4844 328.5313,904.8906 Q328.0313,905.4688 327.2344,905.7969 Q326.1563,906.25 324.8594,906.25 Q323.3438,906.25 322.1406,905.625 Q321.1563,905.125 320.4688,904.0625 Q319.7813,902.9844 319.7813,901.7031 L319.7813,900.5469 Q319.7813,899.2188 320.3906,898.0781 Q321.0156,896.9219 322.1094,896.3125 Q323.2031,895.6875 324.4375,895.6875 Q325.1719,895.6875 325.8125,895.8594 Q326.4688,896.0156 327.0156,896.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="344.75" y="906.2285">Chat</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="176" x2="511" y1="916.5" y2="916.5"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="183" y="927.8047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="195" y="935.0332">user: User</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="183" y="945.4141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="195" y="952.6426">mentor: mentor</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="183" y="963.0234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="195" y="970.252">messages: List&lt;String&gt;</text>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="176" x2="511" y1="977.3281" y2="977.3281"/>
+            <ellipse cx="186" cy="991.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="209" x="195" y="995.8613">Chat(user: User, mentor: mentor)</text>
+            <ellipse cx="186" cy="1009.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="296" x="195" y="1013.4707">sendMessageFromUser(message: String): void</text>
+            <ellipse cx="186" cy="1026.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="311" x="195" y="1031.0801">sendMessageFromMentor(message: String): void</text>
+            <ellipse cx="186" cy="1044.4609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="195" y="1048.6895">getMessages(): List&lt;String&gt;</text>
+            <ellipse cx="186" cy="1062.0703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="128" x="195" y="1066.2988">displayPesan(): void</text>
+        </g>
+        <!--class Mentoring-->
+        <g id="elem_Mentoring">
+            <rect codeLine="101" fill="#F1F1F1" height="136.0469" id="Mentoring" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="280" x="1059.5" y="165.5"/>
+            <ellipse cx="1163.75" cy="181.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1166.5156,177.375 Q1166.6719,177.1563 1166.8594,177.0469 Q1167.0469,176.9375 1167.2656,176.9375 Q1167.6406,176.9375 1167.875,177.2031 Q1168.1094,177.4531 1168.1094,178.0625 L1168.1094,179.5156 Q1168.1094,180.125 1167.875,180.3906 Q1167.6406,180.6563 1167.2656,180.6563 Q1166.9219,180.6563 1166.7188,180.4531 Q1166.5156,180.2656 1166.4063,179.75 Q1166.3594,179.3906 1166.1719,179.2031 Q1165.8438,178.8281 1165.2344,178.6094 Q1164.625,178.3906 1164,178.3906 Q1163.2344,178.3906 1162.5938,178.7188 Q1161.9688,179.0469 1161.4688,179.7969 Q1160.9844,180.5469 1160.9844,181.5781 L1160.9844,182.6719 Q1160.9844,183.9063 1161.875,184.7344 Q1162.7656,185.5469 1164.3594,185.5469 Q1165.2969,185.5469 1165.9531,185.2969 Q1166.3438,185.1406 1166.7656,184.7031 Q1167.0313,184.4375 1167.1719,184.3594 Q1167.3281,184.2813 1167.5313,184.2813 Q1167.8594,184.2813 1168.1094,184.5469 Q1168.375,184.7969 1168.375,185.1406 Q1168.375,185.4844 1168.0313,185.8906 Q1167.5313,186.4688 1166.7344,186.7969 Q1165.6563,187.25 1164.3594,187.25 Q1162.8438,187.25 1161.6406,186.625 Q1160.6563,186.125 1159.9688,185.0625 Q1159.2813,183.9844 1159.2813,182.7031 L1159.2813,181.5469 Q1159.2813,180.2188 1159.8906,179.0781 Q1160.5156,177.9219 1161.6094,177.3125 Q1162.7031,176.6875 1163.9375,176.6875 Q1164.6719,176.6875 1165.3125,176.8594 Q1165.9688,177.0156 1166.5156,177.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="1184.25" y="187.2285">Mentoring</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1060.5" x2="1338.5" y1="197.5" y2="197.5"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1067.5" y="208.8047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="1079.5" y="216.0332">akun: Akun</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1067.5" y="226.4141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="1079.5" y="233.6426">message: String</text>
+            <line style="stroke:#181818;stroke-width:1.0;" x1="1060.5" x2="1338.5" y1="240.7188" y2="240.7188"/>
+            <ellipse cx="1070.5" cy="255.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="254" x="1079.5" y="259.252">Mentoring(akun: Akun, message: String)</text>
+            <ellipse cx="1070.5" cy="272.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="1079.5" y="276.8613">getAkun(): Akun</text>
+            <ellipse cx="1070.5" cy="290.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="1079.5" y="294.4707">getMessage(): String</text>
+        </g>
+        <!--link Akun to mentor-->
+        <g id="link_Akun_mentor">
+            <path codeLine="110" d="M485.35,460.19 C450.93,497.51 418.29,532.91 393.01,560.31 " fill="none" id="Akun-to-mentor" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="389.34,564.3,398.3743,560.378,392.7225,560.6178,392.4827,554.966,389.34,564.3" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="63" x="458.5" y="504.4951">inheritance</text>
+        </g>
+        <!--link Akun to User-->
+        <g id="link_Akun_User">
+            <path codeLine="111" d="M902.24,460.19 C926.46,486.37 949.79,511.6 970.32,533.8 " fill="none" id="Akun-to-User" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="973.85,537.62,970.6696,528.2988,970.4527,533.9515,964.8,533.7345,973.85,537.62" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="63" x="941.5" y="504.4951">inheritance</text>
+        </g>
+        <!--link mentor to Chat-->
+        <g id="link_mentor_Chat">
+            <path codeLine="112" d="M343.5,665.58 C343.5,720.3 343.5,809.82 343.5,879.03 " fill="none" id="mentor-to-Chat" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="343.5,884.4,347.5,875.4,343.5,879.4,339.5,875.4,343.5,884.4" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="344.5" y="736.4951">has</text>
+        </g>
+        <!--link User to Chat-->
+        <g id="link_User_Chat">
+            <path codeLine="113" d="M740.53,692.05 C651.54,717.53 567.85,745.64 529.5,770 C484.52,798.57 443.86,840.99 412.1,880.08 " fill="none" id="User-to-Chat" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="408.67,884.34,417.4218,879.8227,411.7987,880.4398,411.1815,874.8168,408.67,884.34" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="635.5" y="736.4951">has</text>
+        </g>
+        <!--link User to Report-->
+        <g id="link_User_Report">
+            <path codeLine="114" d="M1066.22,692.33 C1077.29,731.26 1091.17,780.03 1104.31,826.19 " fill="none" id="User-to-Report" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="1105.74,831.23,1107.1136,821.4774,1104.3664,826.4224,1099.4214,823.6752,1105.74,831.23" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="1078.5" y="736.4951">has</text>
+        </g>
+        <!--link mentor to Artikel-->
+        <g id="link_mentor_Artikel">
+            <path codeLine="115" d="M405.6,665.53 C442.21,695.2 489.12,734.02 529.5,770 C533.99,774 538.51,778.06 543.06,782.17 " fill="none" id="mentor-to-Artikel" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="546.89,785.64,542.8953,776.6376,543.1806,782.2873,537.531,782.5726,546.89,785.64" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="496.5" y="736.4951">has</text>
+        </g>
+        <!--link User to Artikel-->
+        <g id="link_User_Artikel">
+            <path codeLine="116" d="M981.67,692.33 C963.44,714.47 942.59,739.8 921,766.02 " fill="none" id="User-to-Artikel" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="917.81,769.9,926.6157,765.4886,920.9855,766.0379,920.4362,760.4077,917.81,769.9" style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="956.5" y="736.4951">has</text>
+        </g>
+        <!--SRC=[lLRRRjGm47tVhyXZLcH_O8KgLGKaeArMBPVdwSOaPXCdifsY2l7lZ2znChO3Jz2NPkVcCsV6Cpvte5HnVPb4yNDNuD-Xc1IJ0dfsB1wrvABnuX4DVmooZiHe2R5bEmXsF_MHcFN0kqWcXuwUywfGPn22IPIw3oz-XcwA81syog0lOzHL0hXAW5K4VKKHLWJStfzLmpSDqfwuFnRF0w-zec7wiuTWD3GbfayUJ1cZIgBS8wHS12jVuqqyJpwzxFcpBkOWYVBMa90BuHI4eyJv0IdB-LevuJFs_6BgctDr2b9-wjmD3HSb5-CKAh3Kq8fFAUTF0u81iVkrsvtj5UYPq8CCb-3SWlxATMiY7eiR_EKL2iklRuZsMafukULAlxwpGV24AzgXBlY_xz6GZG6MvEBGRMSpwxVpAIGR1wdLskR1YgA4pVd_wqgU9GFD78oIAtuB-0LYkqTT3gRNI0A1F2V8p4EJbHUcvtY51j4qq0Nb6yIsaAqdbNMRUTlE8Xe451JD4MtUXm1_PGIjFn7CPIw5nETndKoPJMrpj0KUhNI5DRx-JO9jlsBKwYcEEC28ttgbj7X2eQ-bvXVMXKf_d-eftb18NxpUc9Wwhl9r9mM_3ERY0xbIpYcwBXv8IG1KwxEh-DYv8JJqJz1-z2ULov6v6hGmJYhOSb6p2mP4YgZP4o0zERFAgRPAZ5X6te4uyOwt8EQi_CvqlzPSUD5LFihidhJH1yDIRbKu1I4nSSPkoxaQyOhkTBSwzhEhrQlY0iKXV2T7BRnSlvAqKE8Uwh7VQYSRBDC9YNLo4Sm68FEEpBhUxmNtFmYLWeOfFqIpRMt2bakuAegqp3HHtxbmx-JGsztXms-DBEBWjjIVNP10xx4CVifTpTNOmSk9gToe29imq0Ju1ZpQjoTb93_OWt-v-5Mnotu1ExymG_nr2gikH83syNuuNCrF67DJMoOvjjEPBLhx9A0wxs2qjWEEE23KpXfkoVnkTDAL_pnA8tCg_Wq0]-->
+    </g>
+</svg>
