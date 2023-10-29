@@ -1,0 +1,80 @@
+@startuml
+
+
+class Akun {
+  - username: String
+  - password: String
+  - nama: String
+  - phoneNum: String
+  - email: String
+  - role: String
+  - value: String
+  + Akun(username: String, password: String, phoneNum: String, nama: String, email: String, role: String)
+  + daftarAkun(): void
+  + getUsername(): String
+  + setUsername(username: String): void
+  + getPassword(): String
+  + setPassword(password: String): void
+  + getNama(): String
+  + setNama(nama: String): void
+  + getPhoneNum(): String
+  + setPhoneNum(phoneNum: String): void
+  + getEmail(): String
+  + setEmail(email: String): void
+  + getRole(): String
+  + setRole(role: String): void
+  + getValue(): String
+  + setValue(value: String): void
+  + login(inputUsername: String, inputPassword: String): boolean
+}
+
+class mentor {
+  - startChatWithUser: ArrayList<mentoring>
+  + mentor(username: String, password: String, phoneNum: String, nama: String, email: String, role: String)
+  + startChatWithUser(user: User): void
+}
+
+class User {
+  - startChatWithMentor: ArrayList<mentoring>
+  - reports: ArrayList<Report>
+  + User(username: String, password: String, phoneNum: String, nama: String, email: String, role: String)
+  + createReport(isiLaporan: String): void
+  + getReports(): List<Report>
+  + startChatWithMentor(mentor: mentor): void
+}
+
+class mentoring {
+  - pengirim: Akun
+  - penerima: Akun
+  - pesan: ArrayList<String>
+  + mentoring(pengirim: Akun, penerima: Akun)
+  + kirimPesan(scanner: Scanner): void
+  + tampilkanPesan(): void
+}
+
+class Report {
+  - nama: User
+  - isiLaporan: String
+  - tanggalLaporan: Date
+  - statusLaporan: String
+  + Report(isiLaporan: String)
+  + setNama(nama: User): void
+  + setIsiLaporan(isiLaporan: String): void
+  + setTanggalLaporan(tanggalLaporan: Date): void
+  + setStatusLaporan(statusLaporan: String): void
+  + getNama(): User
+  + getIsiLaporan(): String
+  + getTanggalLaporan(): Date
+  + getStatusLaporan(): String
+  + printLaporan(): void
+}
+
+Akun --> mentoring : has
+mentor --> mentoring : has
+User --> mentoring : has
+mentor --> Artikel : has
+Akun --> User : has
+User --> Report : has
+mentor --> Report : has
+
+@enduml
